@@ -17,3 +17,15 @@ some reading :)
 http://highscalability.com/blog/2013/5/1/myth-eric-brewer-on-why-banks-are-base-not-acid-availability.html
 
 https://msdn.microsoft.com/en-au/library/dn589800.aspx
+
+
+## About sample
+please make sure to set AWS_KEY and AWS_SECRET with you aws credentials. or update application.yml file with your credential before build or run
+
+
+How to build 
+./gradlew build
+
+Run:
+./gradlew bootRun
+
