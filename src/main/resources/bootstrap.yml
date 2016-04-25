@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: acn-aws-sqs
